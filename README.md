@@ -1,2 +1,2 @@
 # russianrouellte
-these is russian rouellte game stored in c# 
+This is russian rouellte game stored in c# 
